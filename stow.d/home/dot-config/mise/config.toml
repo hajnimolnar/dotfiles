@@ -2,17 +2,7 @@
 auto_install = true
 
 [tools]
-bun = "latest"
-go = "latest"
 node = "lts"
-task = "latest"
 pnpm = "latest"
-buf = "latest"
 helm = "latest"
 kubectl = "latest"
-tilt = "latest"
-terragrunt = "latest"
-opentofu = "latest"
-rust = "stable"
-"cargo:lq" = "latest"
-"cargo:cargo-generate" = "latest"
